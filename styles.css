@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: plum;
+}
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    -webkit-text-stroke: black 1.5px;
+}
+
+h1 {
+    border: mediumvioletred ridge 3px;
+    width: 700px;
+    margin: auto;
+
+}
+
+table{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: mediumvioletred ridge 5px;
+    width: 700px;
+    height: 125px;
+    margin: auto;
+    background-color: pink;
+}
+
+thead{
+    background-color: gray;
+    color:aliceblue;
+}
+
+th{
+    border-bottom: fuchsia solid 1px ;
+}
+
+td {
+    text-align: center;
+    border-bottom: fuchsia solid 1px;
+}
+
+.one {
+    background-color: hotpink;
+}
